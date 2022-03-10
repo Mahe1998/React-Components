@@ -3,9 +3,9 @@ import React from "react";
 function List() {
   return (
     <ul>
-      <li>Bacon</li>
-      <li>Jamon</li>
-      <li>Noodles</li>
+      <li>Chicken Biryani</li>
+      <li>Prawn Biryani</li>
+      <li>Egg Biryani</li>
     </ul>
   );
 }
